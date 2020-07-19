@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Experienced Software Developer with a demonstrated history of working in the information technology and services industry. Skilled in using JavaScript, Golang, and Scala Programming. Strong arts and design professional with a Bachelor of Architecture. Mainly focused in Building Software solutions and coding for fun. 💬
+📫 Experienced Software Developer with a demonstrated history of working in the information technology and services industry. Skilled in using JavaScript, Golang, and Scala Programming. Strong arts and design professional with a Bachelor of Architecture. Mainly focused in Building Software solutions and coding for fun. 💬
 
 
 <!--
