@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Xanik/Xanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Experienced Software Developer with a demonstrated history of working in the information technology and services industry. Skilled in using JavaScript, Golang, and Scala Programming. Strong arts and design professional with a Bachelor of Architecture. Mainly focused in Building Software solutions and coding for fun.
 
+
+<!--
+**Xanik/Xanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
