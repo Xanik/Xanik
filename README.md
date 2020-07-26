@@ -13,6 +13,5 @@
 
 <p align="center">
 <img src="./Go_TutorialIllo_Social.png"
-  alt="Size Limit comment in pull request about bundle size changes"
   width="686" height="289">
 </p>
