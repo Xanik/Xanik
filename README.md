@@ -23,6 +23,9 @@
   <a href="https://img.shields.io/badge/Backend-Golang-yellowgreen">
     <img src="https://img.shields.io/badge/Backend-Golang-yellowgreen" />
   </a>
+  <a href="https://img.shields.io/badge/Backend-NodeJs-yellow">
+    <img src="https://img.shields.io/badge/Backend-Nodejs-yellow" />
+  </a>
   <a href="https://img.shields.io/badge/Frondend-Vue-red">
     <img src="https://img.shields.io/badge/Frondend-Vue-red" />
   </a>
