@@ -9,12 +9,12 @@
   <a href="http://twitter.com/xan_ik">
     <img src="https://img.shields.io/twitter/follow/xan_ik?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://img.shields.io/github/commit-activity/m/Xanik/Xanik?color=Lemon&label=Commit%20Activity">
-    <img src="https://img.shields.io/github/commit-activity/m/Xanik/Xanik?color=Lemon&label=Commit%20Activity" />
-  </a>
 </p>
 <p>
   <a href="https://img.shields.io/github/commit-activity/m/Xanik/Xanik?color=Lemon&label=Commit%20Activity">
     <img src="https://img.shields.io/github/commit-activity/m/Xanik/Xanik?color=Lemon&label=Commit%20Activity" />
+  </a>
+  <a href="https://img.shields.io/github/languages/count/Xanik/vms?color=lemon&label=Languages">
+    <img src="https://img.shields.io/github/languages/count/Xanik/vms?color=lemon&label=Languages" />
   </a>
 </p>
