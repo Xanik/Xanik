@@ -11,8 +11,8 @@
   </a>
 </p>
 <p>
-  <a href="https://img.shields.io/github/commit-activity/m/Xanik/Xanik?color=Lemon&label=Commit%20Activity">
-    <img src="https://img.shields.io/github/commit-activity/m/Xanik/Xanik?color=Lemon&label=Commit%20Activity" />
+  <a href="hhttps://img.shields.io/github/languages/top/Xanik/vms?color=red&label=Golang">
+    <img src="https://img.shields.io/github/languages/top/Xanik/vms?color=red&label=Golang" />
   </a>
   <a href="https://img.shields.io/github/languages/count/Xanik/vms?color=lemon&label=Languages">
     <img src="https://img.shields.io/github/languages/count/Xanik/vms?color=lemon&label=Languages" />
