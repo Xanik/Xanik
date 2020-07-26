@@ -29,10 +29,10 @@
   <a href="https://img.shields.io/badge/Frondend-Vue-red">
     <img src="https://img.shields.io/badge/Frondend-Vue-red" />
   </a>
-  <a href="https://img.shields.io/badge/Test-Vue-green">
-    <img src="https://img.shields.io/badge/TDD-Vue-green" />
+  <a href="https://img.shields.io/badge/Test-TDD-green">
+    <img src="https://img.shields.io/badge/Test-TDD-green" />
   </a>
-  <a href="https://img.shields.io/badge/DeployTool-Vue-lime">
-    <img src="https://img.shields.io/badge/Docker-Vue-lime" />
+  <a href="https://img.shields.io/badge/DeployTool-Docker-lime">
+    <img src="https://img.shields.io/badge/DeployTool-Docker-lime" />
   </a>
 </p>
