@@ -10,8 +10,3 @@
     <img src="https://img.shields.io/twitter/follow/xan_ik?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
-
-<p align="center">
-<img src="https://res.cloudinary.com/dpdnaljnf/image/upload/v1595780096/Go_TutorialIllo_Social_auylqe.png"
-  width="686" height="289">
-</p>
