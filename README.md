@@ -11,7 +11,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="hhttps://img.shields.io/github/languages/top/Xanik/vms?color=red&label=Golang">
+  <a href="https://img.shields.io/github/languages/top/Xanik/vms?color=red&label=Golang">
     <img src="https://img.shields.io/github/languages/top/Xanik/vms?color=red&label=Golang" />
   </a>
   <a href="https://img.shields.io/github/languages/count/Xanik/vms?color=lemon&label=Languages">
