@@ -1,38 +1,33 @@
-<img src="https://res.cloudinary.com/dpdnaljnf/image/upload/v1595780057/go_sauis4.png"/>
+### Hello 👋 Sandra Gopher Here
 
-<p align="center">Passionate for <b>#opensource #code #github #remote #golang #vue #python </b> & <b>#docker</b>. 📫 Experienced Software Developer with a demonstrated history of working in the information technology and services industry. Skilled in using JavaScript, Golang, and Scala Programming. Strong arts and design professional with a Bachelor of Architecture. Mainly focused in Building Software solutions and coding for fun. As a software engineer, the more I learn, the more I realise how much I still need to learn.💬</p>
 
-<p align="center">
-  <a href="https://github.com/Xanik?tab=followers">
-    <img src="https://img.shields.io/github/followers/Xanik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/xan_ik">
-    <img src="https://img.shields.io/twitter/follow/xan_ik?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://img.shields.io/github/languages/top/Xanik/vms?color=red&label=Golang">
-    <img src="https://img.shields.io/github/languages/top/Xanik/vms?color=red&label=Golang" />
-  </a>
-  <a href="https://img.shields.io/github/languages/count/Xanik/vms?color=lemon&label=Languages">
-    <img src="https://img.shields.io/github/languages/count/Xanik/vms?color=lemon&label=Languages" />
-  </a>
-  <a href="https://img.shields.io/github/go-mod/go-version/Xanik/DevChallenge1.0">
-    <img src="https://img.shields.io/github/go-mod/go-version/Xanik/DevChallenge1.0" />
-  </a>
-  <a href="https://img.shields.io/badge/Backend-Golang-yellowgreen">
-    <img src="https://img.shields.io/badge/Backend-Golang-yellowgreen" />
-  </a>
-  <a href="https://img.shields.io/badge/Backend-NodeJs-yellow">
-    <img src="https://img.shields.io/badge/Backend-Nodejs-yellow" />
-  </a>
-  <a href="https://img.shields.io/badge/Frondend-Vue-red">
-    <img src="https://img.shields.io/badge/Frondend-Vue-red" />
-  </a>
-  <a href="https://img.shields.io/badge/Test-TDD-green">
-    <img src="https://img.shields.io/badge/Test-TDD-green" />
-  </a>
-  <a href="https://img.shields.io/badge/DeployTool-Docker-lime">
-    <img src="https://img.shields.io/badge/DeployTool-Docker-lime" />
-  </a>
-</p>
+### I'm a <a href="https://github.com/Xanik/" target="_blank">senior software engineer</a> passionate about golang and devops engineering.
+
+### I'm solely transitiong to be a **Senior Devops Engineer** and I am currently on the <a href="https://techworld-with-nana.teachable.com/">TechWorld with Nana</a> Bootcamp. 
+
+# 📊 GitHub Stats:
+<table width="100%">
+<tr>
+   <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xanik&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+   </td>
+   <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanik&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000"/>
+   </td>
+</tr>
+<table>
+
+# 📚 Languages, Frameworks and Libraries
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![RabbitMQ](	https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+
+
+#  🥅 Other
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+   # 💬 Social
+   <div>
+      <a target="_blank" href="https://twitter.com/xan_ik/">
+         <img alt="Twitter - xan_ik" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+      </a>
+   </div>
+
