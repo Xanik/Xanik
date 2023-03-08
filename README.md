@@ -1,7 +1,7 @@
 ### Hello 👋 Sandra Gopher Here
 
 
-### I'm a <a href="https://github.com/Xanik/" target="_blank">senior software engineer</a> passionate about golang and devops engineering.
+### I'm a <a href="https://github.com/Xanik/" target="_blank">Senior Software Engineer</a> passionate about golang and devops engineering.
 
 ### I'm solely transitiong to be a **Senior Devops Engineer** and I am currently on the <a href="https://techworld-with-nana.teachable.com/">TechWorld with Nana</a> Bootcamp. 
 
